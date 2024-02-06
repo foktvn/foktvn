@@ -9,6 +9,6 @@
 - 💬 Talk to me about Technology (QA, Data Analytic )
 - 👸 Babe Engineer
 - 👯 I’m looking to collaborate on Web development
-- ☕ I don't use Caffeine
+- ☕ Need Cofee for Codee
 
 <br>
